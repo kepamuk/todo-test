@@ -1,0 +1,19 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "New Zeeland",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab blanditiis fuga nostrum, placeat qui repudiandae! Accusamus accusantium ad cum deleniti, dolore doloribus et fugiat iusto, laudantium neque perferendis quae quaerat quibusdam ut vel voluptate, voluptatem? Aliquid aperiam commodi debitis fugit in nemo neque nesciunt. Cupiditate quo quod saepe soluta sunt."
+    },
+    {
+      "id": 2,
+      "title": "Japan",
+      "description": "sss ssst t t asdf sd fdsg sfg fsg fsg "
+    },
+    {
+      "id": 3,
+      "title": "Canada",
+      "description": "3333 3434134 13 413 4252 245 42 42 42"
+    }
+  ]
+}
